@@ -6,3 +6,5 @@
 
 3. Папка "Fitnes" проект прогнозирование вероятности оттока пользователей для фитнес-центров.
 
+# Инструменты
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Matplotlib, Seaborn, Logistic Regression, RandomForest, K-Means, проверка статистических гипотез, A/B-тестирование
