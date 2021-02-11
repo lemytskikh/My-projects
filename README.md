@@ -8,3 +8,8 @@
 
 # Применяемые инструменты
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Matplotlib, Seaborn, Logistic Regression, RandomForest, K-Means, проверка статистических гипотез, A/B-тестирование
+
+
+
+
+https://github.com/lemytskikh/My-projects/tree/OSN/Fitnes
