@@ -9,7 +9,8 @@
 # Применяемые инструменты
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Matplotlib, Seaborn, Logistic Regression, RandomForest, K-Means, проверка статистических гипотез, A/B-тестирование
 
+| Проект | Описание | Инструменты |
+| :--------------------: | :--------------------- |:---------------------------:|
+| https://github.com/lemytskikh/My-projects/tree/OSN/Games_project | В папке "Games_project" находитсья проект об изучении закономерностей определяющие успешность игр. Необходимо было проанализировать успешность игр по женрам, оценкам пользователей и оценкой критиков в различных регионах. | Python, Pandas, NumPy, Matplotlib, проверка статистических гипотез |
 
 
-
-https://github.com/lemytskikh/My-projects/tree/OSN/Fitnes
